@@ -352,6 +352,7 @@ body:after {
 }
 .slide ol, .slide ul {
     margin: 0 0 50px;
+    color: #000;
     counter-reset: list;
 }
 .slide ol li, .slide ul 
